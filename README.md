@@ -2,7 +2,7 @@
 Currently a spriteswap of [Pokémon Heart and Soul](https://github.com/PokemonHnS-Development/pokemonHnS), a Pokémon Emerald ROM hack.
 This patch:
 - replaces all battle sprites with Moémon designs.
-- reverses gender ratios of Pokémon (e.g a Pokémon with a 3:1 male/female gender ratio now has a 1:3 ratio).
+- reverses gender ratios of Pokémon to increase odds of getting a female Pokémon (e.g a Pokémon with a 3:1 male/female gender ratio now has a 1:3 ratio. A Pokémon with a 1:3 male/female ratio still has a 1:3 ratio).
 
 ## Current version 
 v0.1.0, based on Pokémon Heart and Soul v1.2.1 
