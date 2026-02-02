@@ -13,7 +13,7 @@ v0.1.0, based on Pokémon Heart and Soul v1.2.1
 - Add an NPC for learning egg moves more easily.
 
 ## Installation
-Use the patch on your own copy of Pokémon Emerald (USA, Europe) using [the browser ROM Patcher](https://www.marcrobledo.com/RomPatcher.js/) (or any of your choice, as long as it handles BPS files). 
+Use the patch on your own copy of Pokémon Emerald (USA, Europe) using [this browser ROM Patcher](https://www.marcrobledo.com/RomPatcher.js/) (or any of your choice, as long as it handles BPS files). 
 
 # Credits
 Many thanks to the Pokémon Heart and Soul team for creating the base hack upon which this spriteswap is based on, as well as the Moémon Official community for their sprites.
