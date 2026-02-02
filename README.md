@@ -111,3 +111,5 @@ Many thanks to the Pokémon Heart and Soul team for creating the base hack upon 
 - **Kana**
 - **LK**
 
+#### Links
+- [**Discord**](https://discord.gg/fHPHSVNaqQ)
