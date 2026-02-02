@@ -115,4 +115,4 @@ Many thanks to the Pokémon Heart and Soul team for creating the base hack upon 
 - [**Discord**](https://discord.gg/fHPHSVNaqQ)
 
 ## Disclaimer
-This patch and its makers are not affiliated with Pokémon Heart and Soul. For any inquiries concerning the base ROM hack, please contact the developers through the [Pokémon Heart and Soul Discord server](https://discord.gg/KmuvXJrS9M).
+This patch and its makers are not affiliated with Pokémon Heart and Soul or any of its developers, as well as with Moémon Official. For any inquiries concerning the base ROM hack, please contact the developers through the [Pokémon Heart and Soul Discord server](https://discord.gg/KmuvXJrS9M).
